@@ -165,7 +165,7 @@
 
     <!-- About device screen, device maintainer -->
     <string name="device_maintainer">Device maintainer</string>
-    <string name="device_maintainer_summary" translatable="false">Aryan Gupta</string>
+    <string name="device_maintainer_summary" translatable="false">Darknius</string>
 
     <!-- Doze on double tap -->
     <string name="double_tap_title">Double tap</string>
